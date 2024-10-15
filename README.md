@@ -7,3 +7,4 @@ So far it has
     * practice notebooks; and
 	* answers
 * MNIST dataset (`MNIST_images.npy.gz` and `MNIST_labels.npy`; remember to `gzip -d MNIST_images.npy.gz`)
+* the slides for W11 on Simulations (`W11-Simulations.pdf`)
