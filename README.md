@@ -1,5 +1,5 @@
 # astr4004
-This repo collects slides and codes used for ASTR4004/ASTR8004 - Astronomical Computing
+This repo collects slides, codes and data used for ASTR4004/ASTR8004 - Astronomical Computing
 
 So far it has
 * the slides for W10 on Neural Networks (`W10-Neural_Networks.pdf`)
