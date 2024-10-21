@@ -11,4 +11,6 @@ So far it has
 * the jupyter notebooks for W11 on Simulations (`simulations-part[1-4].ipynb`)
     * practice notebooks; and
 	* answers (part 4 missing)
+* the jupyter notebooks for W12 on Inference (`inference-part[1-4].ipynb`)
+    * practice notebooks
 
