@@ -12,7 +12,7 @@ So far it has
     * practice notebooks; and
 	* answers (part 4 missing)
 * the slides for W12 on Inferences (`W12-Inferences.pdf`, incomplete)
-* the jupyter notebooks for W12 on Inference (`inference-part[1-4].ipynb`)
+* the jupyter notebooks for W12 on Inference (`inference-part[1-4].ipynb`, `neural-network-part[45].ipynb`)
     * practice notebooks
-	* answers (part 1 only)
+	* answers (inference-part 1 only)
 
